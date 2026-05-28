@@ -135,7 +135,7 @@ Relationships were established to ensure proper filtering and aggregation across
 
 ## 📄 Full Technical Report
 
-A complete technical documentation of this project is available here:
+A complete technical documentation (In Spanish) of this project is available here:
 
 👉 [Download Report](technical_report.pdf)
 
