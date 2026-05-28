@@ -133,6 +133,9 @@ A complete technical documentation of this project is available here:
 
 ![Overview](images/overview.png)
 
+## Dashboard Link 
+https://app.powerbi.com/links/4z_roo3CcB?ctid=899789dc-202f-44b4-8472-a6d40f9eb440&pbi_source=linkShare
+
 ## 🚀 Business Recommendations
 
 - Improve customer retention strategies
