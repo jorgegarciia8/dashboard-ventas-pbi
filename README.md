@@ -1,5 +1,7 @@
 # 📊 Olist E-Commerce Analytics Dashboard (Power BI)
 
+> 🚀 **[Accede aquí a la Demo Interactiva en Power BI Service](https://app.powerbi.com/links/4z_roo3CcB?ctid=899789dc-202f-44b4-8472-a6d40f9eb440&pbi_source=linkShare)**
+
 ## 📌 Overview
 
 This project presents an interactive Power BI dashboard built using the Brazilian E-Commerce Public Dataset (Olist).  
@@ -100,17 +102,27 @@ Relationships were established to ensure proper filtering and aggregation across
 - Global KPIs
 - Revenue trends
 - Geographic distribution
+- ## 📸 Capturas del Dashboard
+
+### Sales
+![Sales Overview](images/1.png)
 
 ### 2. Customer Analysis
 - Customer segmentation
 - Purchase behavior
 - Payment preferences
+  
+### Customers
+![Customer Analysis](images/2.png)
 
 
-### 4. Logistics Analysis
+### 3. Logistics Analysis
 - Delivery performance
 - Delay analysis
 - Shipping efficiency
+
+### Logistics Performance and Deliveries
+![Logistics Efficiency](images/3.png)
 
 ---
 
@@ -133,8 +145,6 @@ A complete technical documentation of this project is available here:
 
 ![Overview](images/overview.png)
 
-## Dashboard Link 
-https://app.powerbi.com/links/4z_roo3CcB?ctid=899789dc-202f-44b4-8472-a6d40f9eb440&pbi_source=linkShare
 
 ## 🚀 Business Recommendations
 
