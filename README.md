@@ -76,13 +76,11 @@ Relationships were established to ensure proper filtering and aggregation across
 
 ## 📊 Key KPIs
 
-- 💰 Total Revenue: €537.21M  
 - 📦 Total Orders: 99,000  
 - ⭐ Average Rating: 4.09 / 5  
 - 🚚 On-time Delivery Rate: 89.15%  
 - 📈 Average Delivery Time: 12.09 days  
 - 🛍 Unique Products: 32,000+  
-- 👥 Total Customers: 99,000  
 
 ---
 
@@ -137,7 +135,7 @@ Relationships were established to ensure proper filtering and aggregation across
 
 A complete technical documentation (In Spanish) of this project is available here:
 
-👉 [Download Report](technical_report.pdf)
+👉 [Download Report](INFORME%20.pdf)
 
 ---
 
@@ -164,4 +162,4 @@ It showcases skills in data modeling, KPI development, and interactive dashboard
 
 ## LINKEDIN
 
-www.linkedin.com/in/jorge-garcia-martinez-bb6b8b282
+www.linkedin.com/in/jorge-garcia-martinez-jgm
