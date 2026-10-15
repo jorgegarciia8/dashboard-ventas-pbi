@@ -160,6 +160,4 @@ This project demonstrates end-to-end data analysis capabilities, from raw data p
 It showcases skills in data modeling, KPI development, and interactive dashboard design using Power BI.
 
 
-## LINKEDIN
-
-www.linkedin.com/in/jorge-garcia-martinez-jgm
+## Contacto: [LinkedIn] (www.linkedin.com/in/jorge-garcia-martinez-jgm)
